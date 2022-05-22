@@ -1,0 +1,30 @@
+header{
+    margin: 0px auto;
+    padding: 60px 0px 20px  20px;
+}
+
+header h1{
+    margin: 0px auto;
+    padding: 0px;
+    display: block;
+    text-decoration: none;
+    color: #0e69be;
+    width: 600px;
+    height: 44;
+    margin: 0px auto;
+}
+
+header h1 span{
+    font-weight:900px;
+    font-size: 50px;
+}
+
+#container{
+    width:800px;
+    margin: 0px auto;
+}
+
+#content{
+    width: 460px;
+    margin: 0px auto;
+}
